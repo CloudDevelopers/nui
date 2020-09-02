@@ -1,1 +1,1 @@
-print("oi")
+print("oi") print(#vRP.getUsersByPermission("paramedicos.permissao"))
