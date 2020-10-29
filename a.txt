@@ -1,1 +1,1 @@
-print(vRP)
+print("Você está usando uma versão não licensiada! Entre em contato: Likizão#4542 | discord.gg/e4pZmEn [vrp_autorev]\n")
